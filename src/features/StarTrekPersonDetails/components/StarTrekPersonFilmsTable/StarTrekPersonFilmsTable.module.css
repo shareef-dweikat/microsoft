@@ -1,0 +1,12 @@
+#container {
+  width: 50%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-left-style:none ;
+  padding: 8px;
+}
+
+#title{
+  font-weight: 700;
+}
