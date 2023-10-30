@@ -1,0 +1,20 @@
+.container {
+    background-color: red;
+}
+
+#title {
+    text-align: start;
+    text-decoration: underline;
+}
+
+#loader {
+   margin-top: 32px;
+   min-height: 420px;
+   text-align: center;
+}
+
+#paginationContainer {
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+}
